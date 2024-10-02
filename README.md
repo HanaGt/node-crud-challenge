@@ -34,7 +34,7 @@ Each person is represented as an object with the following properties:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/node-crud-challenge.git
+    git clone https://github.com/hanagt/node-crud-challenge.git
     cd node-crud-challenge
     ```
 
